@@ -15,7 +15,7 @@ Both models are tested in a binary classification problem using a synthetic data
 
 **Artificial Neural Network**
 <p float="left">
-    <img src="/images/ANN_test1.png" width="500"/>
-    <img src="/images/ANN_test5.png" width="500"/>
+    <img src="/images/ANN_test1.png" width="400"/>
+    <img src="/images/ANN_test5.png" width="400"/>
 </p>
 
