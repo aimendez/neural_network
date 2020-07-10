@@ -1,6 +1,5 @@
 # Neural Network
 
-----------------------------------------------------------------
 
 Jupyter Notebooks containing a raw implementation of a Perceptron Model and an Artificial Neural Network (ANN) using Numpy, created for educational purposes. The theory behind the implementation of the ANN, specifically the details on Gradient Descent and Backpropagation, can be found in Chapter 8 of ML_notes.pdf.
 
